@@ -13,7 +13,7 @@ La Estupenda
 
 
 Competitor Analyisis:
-![Competitor Analysis](/Images/Competitor Analysis.png)
+![Competitor Analysis](/Images/CompetitorAnalysis.png)
 
 Personas:
 ![Persona1](/Images/Persona1.png)
