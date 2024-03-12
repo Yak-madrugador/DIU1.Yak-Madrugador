@@ -12,4 +12,10 @@ La Estupenda
 - [ ] Revisión de Usabilidad 
 
 
+Competitor Analyisis:
+![Competitor Analysis](/Images/Competitor Analysis.png)
+
+Personas:
+![Persona1](/Images/Persona1.png)
+![Persona2](/Images/Persona2.png)
 (valoración y conclusiones de esta etapa)
