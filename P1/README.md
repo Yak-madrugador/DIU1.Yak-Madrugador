@@ -13,9 +13,9 @@ La Estupenda
 
 
 Competitor Analyisis:
-![Competitor Analysis](P1/Images/CompetitorAnalysis.png)
+![Competitor Analysis](Images/CompetitorAnalysis.png)
 
 Personas:
-![Persona1](P1/Images/Persona1.png)
-![Persona2](P1/Images/Persona2.png)
+![Persona1](Images/Persona1.png)
+![Persona2](Images/Persona2.png)
 (valoración y conclusiones de esta etapa)
