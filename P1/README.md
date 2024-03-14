@@ -13,9 +13,13 @@ La Estupenda
 
 
 Competitor Analyisis:
-![Competitor Analysis](Images/CompetitorAnalysis.png)
+![Competitor Analysis](/Images/CompetitorAnalysis.png)
 
 Personas:
-![Persona1](Images/Persona1.png)
-![Persona2](Images/Persona2.png)
+![Persona1](/Images/Persona1.png)
+![Persona2](/Images/Persona2.png)
+
+Journey maps:
+![JourneyMap1](/Images/JourneyMap1.png)
+![JourneyMap2](/Images/JourneyMap2.png)
 (valoración y conclusiones de esta etapa)
