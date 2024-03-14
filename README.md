@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Pablo Blanco López    :octocat:     
- * :bust_in_silhouette:   Jorge Sánchez Rodríguez    :octocat:
+ * :bust_in_silhouette:   Pablo Blanco López    :imp:    
+ * :bust_in_silhouette:   Jorge Sánchez Rodríguez    :innocent:
 
 ----- 
 
