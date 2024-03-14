@@ -30,7 +30,7 @@ Miembros
 -----
 
 >>> Ofrecemos soluciones específicas en torno a la experiencia del usuario para arreglar los problemas de la página web La Estupenda, y así benefeciar al negocio.
->>> [User Research](P1/User Research La Estupenda.pdf)
+>>> [User Research](P1/UserResearchLaEstupenda.pdf)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
