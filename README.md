@@ -15,14 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Pablo Blanco López    :octocat:     
+ * :bust_in_silhouette:   Jorge Sánchez Rodríguez    :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -33,23 +29,30 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Ofrecemos soluciones específicas en torno a la experiencia del usuario para arreglar los problemas de la página web La Estupenda, y así benefeciar al negocio.
+>>> [P1/User Research La Esupenda.pdf]
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
+>>> Hemos elegido dos aplicaciones, una de Chicago, The Second City, y otra de Londres, City Academy.
+>>> Nos han interesado de ambas la navegación, la forma de obtener la información, siendo esta clara y concisa, y sobre todo la forma con la que actualizan todo lo que tiene que ver en la página. Con esto nos referimos a que por ejemplo para subscribirse al newsletter, en La Estupenda te sale un pop up para que puedas hacerlo, en cambio en las otras dos páginas, sale en una sección sin necesidad de estar preguntando todo el rato si queremos suscribirnos al newsletter.
+>>> ![CompetitorAnalysis](P1/Images/CompetitorAnalysis.png)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Nos ha parecido interesante hacer dos perfiles de personas que sean completamente contrarios, pero al final se puede observar que ninguno de ellos, aunque sean complementarios, se quedan satisfechos con la página.
+>>> ![Persona1](P1/Images/Persona1.png)
+>>> ![Persona2](P1/Images/Persona2.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> La hemos elegido debido a que son acciones que tiende a realizarse muy amenudo ene este estilo de páginas y creemos que encajan de una manera basstante correcta con nuestras personas.
+>>> ![JourneyMap1](P1/Images/JourneyMap1.png)
+>>> ![JourneyMap2](P1/Images/JourneyMap2.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
