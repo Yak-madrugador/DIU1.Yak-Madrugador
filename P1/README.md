@@ -8,18 +8,18 @@ La Estupenda
 - [x] User Research 
 - [x] Desk research: Análisis Competencia 
 - [x] Creación de dos personas 
-- [ ] 2 User Journey Map  ( 1 por persona)
+- [x] 2 User Journey Map  ( 1 por persona)
 - [ ] Revisión de Usabilidad 
 
 
 Competitor Analyisis:
-![Competitor Analysis](/Images/CompetitorAnalysis.png)
+![Competitor Analysis](Images/CompetitorAnalysis.png)
 
 Personas:
-![Persona1](/Images/Persona1.png)
-![Persona2](/Images/Persona2.png)
+![Persona1](Images/Persona1.png)
+![Persona2](Images/Persona2.png)
 
 Journey maps:
-![JourneyMap1](/Images/JourneyMap1.png)
-![JourneyMap2](/Images/JourneyMap2.png)
+![JourneyMap1](Images/JourneyMap1.png)
+![JourneyMap2](Images/JourneyMap2.png)
 (valoración y conclusiones de esta etapa)
