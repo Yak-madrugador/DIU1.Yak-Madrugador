@@ -49,18 +49,17 @@ Miembros
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
-
 >>> La hemos elegido debido a que son acciones que tiende a realizarse muy amenudo ene este estilo de páginas y creemos que encajan de una manera basstante correcta con nuestras personas.
 >>> ![JourneyMap1](P1/Images/JourneyMap1.png)
 >>> ![JourneyMap2](P1/Images/JourneyMap2.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  [Usability Review](P1/UsabilityReview.pdf)
+>>> - Valoración final: 42
+>>> - Comentario sobre la valoración: Nuestra mejora de la página la centramos en realizar una reestructuración de la página principal, añadiendo contenido que le puede resultar útil al consumidor, como por ejemplo enlaces para las diferentes secciones que sean más claros y que ocupen un primer lugar, un sistema de búsqueda personalizado y multiparamétrico, un sistema de reserva de clases automatizado y que aporte una mayor cantidad de información acerca de estas clases
+>>> Además proponemos un sistema para acceder con tu correo electrónico y contraseña, para que tengas guardados las diferentes clases que estas inscrito y espectáculos a los que has comprado una entrada, y para además poder dejar valoraciones de las diferentes clases y espectáculos. 
+
 
 
 ## Paso 2. UX Design  
