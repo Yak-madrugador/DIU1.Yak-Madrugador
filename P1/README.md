@@ -25,7 +25,7 @@ La Estupenda
 
 ## Usability review:
 [Usability Review](UsabilityReview.pdf)
-### Puntuación: 42
+### Puntuación: 44
 ### Briefing:
 Nuestra mejora de la página la centramos en realizar una reestructuración de la página principal, añadiendo contenido que le puede resultar útil al consumidor, como por ejemplo enlaces para las diferentes secciones que sean más claros y que ocupen un primer lugar, un sistema de búsqueda personalizado y multiparamétrico, un sistema de reserva de clases automatizado y que aporte una mayor cantidad de información acerca de estas clases.
 
