@@ -1,5 +1,15 @@
 ## DIU - Practica2, entregables
 
+- [x] Malla receptora de información
+- [x] Scope Canvas
+- [x] Tabla de anlásis de tareas
+- [x] User flow
+- [] Sitemap
+- [] Labelling
+- [] Esbozo a papel
+- [] Wireframe
+- [] Gridlayout
+
 ### Ideación 
 * Malla receptora de información 
 * Mapa de empatía
