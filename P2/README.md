@@ -4,11 +4,11 @@
 - [x] Scope Canvas
 - [x] Tabla de anlásis de tareas
 - [x] User flow
-- [-] Sitemap
-- [-] Labelling
-- [-] Esbozo a papel
-- [-] Wireframe
-- [-] Gridlayout
+- [ ] Sitemap
+- [ ] Labelling
+- [ ] Esbozo a papel
+- [ ] Wireframe
+- [ ] Gridlayout
 
 ### Ideación 
 * Malla receptora de información 
