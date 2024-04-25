@@ -1,7 +1,7 @@
 ## DIU - Practica2, entregables
 
-- [x] Malla receptora de información
-- [x] Scope Canvas
+- [x] Reframing - Malla receptora de información
+- [x] Propuesta de valor - Scope Canvas
 - [x] Tabla de anlásis de tareas
 - [x] User flow
 - [x] Sitemap
@@ -10,14 +10,12 @@
 - [ ] Wireframe
 - [ ] Gridlayout
 
-### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+### Malla receptora de información
+![Malla receptora de información](Malla-Receptora-Información.png)
 
 
-### PROPUESTA DE VALOR
-* ScopeCanvas
+### Propuesta de valor
+![Scope Canvas](ScopeCanvas.pdf)
 
 
 ### TASK ANALYSIS
