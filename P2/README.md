@@ -39,8 +39,17 @@
 
 ### Prototipo Lo-FI Wireframe 
 * Boceto a papel
+  
    ![BocetoActividad](Bocetos/BocetosRevisados/ActividadBocetoRevisado.png)
    ![BocetoIndex](Bocetos/BocetosRevisados/IndexBocetoRevisado.png)
 
-### Conclusiones  
-(incluye valoración de esta etapa)
+* Wireframe
+  
+  ![WireframeActividad](Wireframes/WireframeActividad.png)
+  ![WireframeIndex](Wireframes/WireframeIndex.png)
+
+* GridLayout
+  
+  [Grid Layout Index](https://github.com/Yak-madrugador/DIU1.Yak-Madrugador/blob/master/P2/GridLayout/GridLayoutIndex.pdf)
+  
+  [Grid Layout Actividad](https://github.com/Yak-madrugador/DIU1.Yak-Madrugador/blob/master/P2/GridLayout/GridLayoutActividad.pdf)
