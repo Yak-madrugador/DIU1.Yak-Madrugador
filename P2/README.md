@@ -15,7 +15,7 @@
 
 
 ### Propuesta de valor
-![Scope Canvas](ScopeCanvas.pdf)
+![Scope Canvas](ScopeCanvas.png)
 
 
 ### TASK ANALYSIS
