@@ -9,7 +9,7 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Nuestra idea consiste en la realización de una página web perteneciente a una organización sin ánimo de lucro que busca la realización de actividades sociales de todo tipo y en todos los niveles de la sociedad, para ello pretendemos crear un sistema con un amplio catálogo de actividades y un sistema de búsqueda eficaz para permitir al usuario realizar un uso fácil de la página y motivar al usuario para que participe en las actividades propuestas, además de incluir una manera de contactar e informar de nuevas actividades que podrían realizarse.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -70,48 +70,42 @@ Miembros
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+![Malla Receptora Información](P2/Malla-Receptora-Información.png)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![Scope Canvas](P2/ScopeCanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
+* Task Analysis Table
+  
+  ![Task Analysis Table](/P2/TaskAnalisisTable.png)
 
->>> Definir "User Map" y "Task Flow" ... 
-
-
+* User/Task flow
+  ![User/Task flow1](/P2/UserFlow/Actividad1.png)
+  ![User/Task flow2](/P2/UserFlow/Actividad2.png)
+  ![User/Task flow3](/P2/UserFlow/Actividad3.png)
+  
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+  ![Sitemap](/P2/SiteMap.png)
+  ![Labelling](/P2/Labelling.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+  ![WireframeActividad](/P2/Wireframes/WireframeActividad.png) 
+  
+  [Grid Layout Actividad](https://github.com/Yak-madrugador/DIU1.Yak-Madrugador/blob/master/P2/GridLayout/GridLayoutActividad.pdf)
+  
+  ![WireframeIndex](/P2/Wireframes/WireframeIndex.png)
+  
+  [Grid Layout Index](https://github.com/Yak-madrugador/DIU1.Yak-Madrugador/blob/master/P2/GridLayout/GridLayoutIndex.pdf)
+  
+ 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
