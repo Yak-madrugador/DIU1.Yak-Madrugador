@@ -12,7 +12,8 @@ Descripción:
 >>> Nuestra idea consiste en la realización de una página web perteneciente a una organización sin ánimo de lucro que busca la realización de actividades sociales de todo tipo y en todos los niveles de la sociedad, para ello pretendemos crear un sistema con un amplio catálogo de actividades y un sistema de búsqueda eficaz para permitir al usuario realizar un uso fácil de la página y motivar al usuario para que participe en las actividades propuestas, además de incluir una manera de contactar e informar de nuevas actividades que podrían realizarse.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+>>> ![](./P3/img/logo.jpg)
 
 Miembros
  * :bust_in_silhouette:   Pablo Blanco López    :imp:    
@@ -114,36 +115,42 @@ Miembros
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> Moodboard:
+>>>
+>>> ![](./P3/moodboard.png)
+>>> 
+>>> Logotipo:
+>>> 
+>>> ![](./P3/img/logo.jpg)
+>>> 
+>>> El logotipo lo hemos obtenido gracias a la herramienta para generar imágenes de Bing, una inteligencia artificial que genera imágenes según lo que pidas, elegimos este logo porque nos gusta el mensaje que transmite en relación al tema de nuestra aplicación.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
-
->>> Plantear Landing Page 
+>>> ![](./P3/img/LandingPage1.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Hemos realizado el design kit dado con los materiales al completo con todos los colores que elegimos en el moodboard, pero no hemos usado todos las plantillas, como se puede apreciar en el mockup hemos usado aquellas que nos convenían para el diseño
+>>> de nuestra página.
+>>>
+>>> [Enlace para ver el design kit](./P3/Material3DesignKit.pdf)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Tras los pasos anteriores, ya tenemos todo para completar el mockup de nuestra página. [En este enlace se puede ver el pdf con todos los componentes del mockup](./P3/LayoutHi-Fi.pdf)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
-
+>>> Gracias a figma, podemos hacer una simulación de cómo ser vería nuestra página según el mockup comentado anteriormente, para mostrarlo hemos realizado un vídeo dónde se ve al detalle todas las funcionalidades de esta.
+>>> [Enlace para ver el vídeo.](https://drive.google.com/file/d/1uJa4eQMQVB4dG2UW1rfyJoETPq1K5wpG/view?usp=sharing)
+>>>
+>>> Consideramos este diseño como uno minimalista que se acostumbra poco a ver, por esa misma razón hemos querido llevar por este camino nuestra página, para que sea accesible a todo el mundo, de todas las edades y que no conlleve mucha perdida, ya que nuestra idea de proyecto se basa en poder llegar a la mayor cantidad de audiencia posible. Además hemos optado por la opción de invitar a que el usuario se inscriba en las actividades haciendo incapie en sobresaltar los botones de "Apúntate", y por su puesto, cada actividad tiene más información accesible para que aquellos a quien interese puedan acceder a ella sin problemas.
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
