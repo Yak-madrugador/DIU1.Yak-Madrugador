@@ -31,7 +31,7 @@ El fichero figma se encuentra en [este archivo](./LayoutHi-Fi.fig)
 
 ## Documentación: Publicación del Case Study
 Para la realización de esta práctica nos hemos encontrado con problemas para desarrolar 
-el layout Hi-Fi de una manera correcta, para conseguirlo hemos aprendido de los repositorios en case of study y así hemos conseguido realizarlo
+el layout Hi-Fi de una manera correcta, para conseguirlo hemos aprendido de los repositorios en case of study para conseguir realizar nuestro layout
 
 Creemos que nuestro prototipo refleja de una manera correcta los conocimientos aprendidos en teoría, además pensamos que el moodboard y la landing page reflejan correctamente el objetivo de nuestro prototipo
 
