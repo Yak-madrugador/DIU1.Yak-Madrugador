@@ -1,13 +1,12 @@
 # DIU - Practica 3, entregables
-![](./img/logo.jpeg)
+![](./img/logo.jpg)
 
 
 ## Moodboard (diseño visual + logotipo)   
 ![](./moodboard.png)
 
 ## Landing Page
-
-
+![](./img/LandongPage-1.png)
 ## Mockup: LAYOUT HI-FI
 
 
