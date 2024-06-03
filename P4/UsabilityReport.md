@@ -6,7 +6,7 @@
 
 ![Logo](img/logoOasis.png)
 
-[Enlace a GITHUB del proyecto]
+[Enlace a GITHUB del proyecto](https://github.com/DIU1-PaloSeco/DIU)
 
 ### Realizado por:
 
