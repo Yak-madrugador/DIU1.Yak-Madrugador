@@ -187,24 +187,26 @@ Resultados y valoración
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
 
+---- 
+>>>El caso asignado es la evaluación del proyecto "Oasis", que implica la creación de una página web para unas instalaciones deportivas, facilitando la reserva de sus instalaciones. Para llevarlo a cabo, se deberá desarrollar una interfaz de usuario intuitiva y fácil de usar, implementar un sistema de gestión de reservas eficiente y fiable, e integrar métodos de pago seguros y opciones de confirmación de reservas.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+[Enlace al GITHUB del proyecto](https://github.com/DIU1-PaloSeco/DIU?tab=readme-ov-file)
+
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>> Las personas elegidas se han generado mediante la tirada de dados propuestas, tras esto hemos buscado a gente conocida que se ajuste a las características de la tirada, los usuarios son: 
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Juan Carlos   | H / 52   | Militar     | Avanzada    | Introvertido | Web.       | A 
+| Alba          | M / 16   | Estudiante  | Intermedia  | Timido       | Web        | A 
+| Tomás         | M / 25   | Profesor    | Intermedia  | Emocional    | móvil      | B 
+| Marina        | M / 20   | Estudiante  | Baja        | Racional     | Web        | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
