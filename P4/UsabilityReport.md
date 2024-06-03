@@ -4,7 +4,7 @@
 
 ### 3/06/2024
 
-![]()
+![Logo](img/logoOasis.png)
 
 [Enlace a GITHUB del proyecto]
 
