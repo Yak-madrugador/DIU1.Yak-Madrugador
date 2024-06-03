@@ -48,7 +48,27 @@ Se utilizó la escala de usabilidad del sistema (SUS) para cuantificar la experi
   - Usuario 4: 87.5
 
 **Resultado de eyetracking:**
-* (Este apartado está pendiente de más información. Por favor, proporcione datos si es necesario.)
+
+Caso A:
+
+![A1](img/AmigosSolidarios1.png)
+![A2](img/AmigosSolidarios2.png)
+![A3](img/AmigosSolidarios3.png)
+![A4](img/AmigosSolidarios4.png)
+![A5](img/AmigosSolidarios5.png)
+
+Caso B:
+
+![B1](img/Oasis1.PNG)
+![B2](img/Oasis2.PNG)
+![B3](img/Oasis3.PNG)
+![B4](img/Oasis4.PNG)
+![B5](img/Oasis5.PNG)
+![B6](img/Oasis6.PNG)
+![B7](img/Oasis7.PNG)
+
+
+Además, incluimos los vídeos en el siguiente [enlace](https://drive.google.com/drive/folders/1U4BWmyqUrBIbJwl570SO4GQdlt9CDpRz?usp=sharing).
 
 ## 4 CONCLUSIONES 
 
@@ -72,5 +92,5 @@ Las pruebas de usabilidad revelan que "Amigos Solidarios" ofrece una mejor exper
 
 #### Valoración de la prueba de usabilidad (self-assessment)
 
-Las técnicas de prueba de usabilidad utilizadas fueron efectivas para detectar errores y problemas de usabilidad ocultos. La utilización de cuestionarios SUS permitió obtener una evaluación cuantitativa clara de la experiencia del usuario, destacando áreas clave para la mejora continua.
+Las técnicas de prueba de usabilidad utilizadas fueron efectivas para detectar errores y problemas de usabilidad ocultos. La utilización de cuestionarios SUS permitió obtener una evaluación cuantitativa clara de la experiencia del usuario, destacando áreas clave para la mejora continua. 
 
