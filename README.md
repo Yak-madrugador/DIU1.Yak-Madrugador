@@ -188,11 +188,13 @@ Miembros
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> ![](./P4/img/Resultados-SUS.png)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Valoraciones personales:
+>>> - Juan Carlos (#USER1): Los menús eran claros y era fácil comprender cómo se apunta un usuario a una actividad.
+>>> - Alba (#USER2): La página era sencilla de comprender y muy intuitiva, es muy sencillo apuntarse a una actividad.
+>>> - Tomás (#USER3): He tenido alguna dificultad para volver al menú principal, pero por lo general bastante coherente la página.
+>>> - Marina (#USER4): Todo muy intuitivo y con menús claros.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -231,6 +233,7 @@ Las técnicas de prueba de usabilidad utilizadas fueron efectivas para detectar 
 ### Valoración personal
 
 Como equipo creemos que la web de Oasis consigue transmitir el objetivo de esta de una manera bastante clara, además incluye buenas funcionalidades.
+
 Creemos que debe integrar las funcionalidades de una manera más efectiva y que debe mejorar la navegabilidad de la web.
 
 
