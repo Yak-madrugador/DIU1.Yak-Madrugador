@@ -99,8 +99,9 @@ Las pruebas de usabilidad revelan que "Amigos Solidarios" ofrece una mejor exper
 #### Valoración 
 
 * **Puntos Positivos a destacar:**
-  - "Amigos Solidarios" obtuvo altas puntuaciones en usabilidad.
-  - Los usuarios encontraron el sitio fácil de navegar y confiable.
+  - Oasis dispone de buenas funcionalidades.
+  - Buena gestión del perfil de usuario.
+  - Disponen de una buena home page que hace sencillo comprender el onjetivo de la página.
 
 #### Recomendaciones y propuesta de mejoras: 
 
