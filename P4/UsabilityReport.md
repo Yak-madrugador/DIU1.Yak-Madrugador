@@ -74,6 +74,3 @@ Las pruebas de usabilidad revelan que "Amigos Solidarios" ofrece una mejor exper
 
 Las técnicas de prueba de usabilidad utilizadas fueron efectivas para detectar errores y problemas de usabilidad ocultos. La utilización de cuestionarios SUS permitió obtener una evaluación cuantitativa clara de la experiencia del usuario, destacando áreas clave para la mejora continua.
 
----
-
-Por favor, indícame si necesitas más información en algún párrafo específico.
