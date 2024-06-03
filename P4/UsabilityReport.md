@@ -1,7 +1,3 @@
-Entendido, voy a rellenar la plantilla siguiendo el formato proporcionado y utilizando la información de los archivos. Aquí está el informe de usabilidad completado:
-
----
-
 #### Evaluación de usabilidad del proyecto 
 
 ### Amigos Solidarios y Oasis
