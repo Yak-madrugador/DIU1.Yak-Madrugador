@@ -198,13 +198,40 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+#### Conclusiones A/B Testing
+
+  - La página de Amigos Solidarios es más consistente y fácil de comprender.
+  - La navegabilidad de Oasis no es totalmente correcta y puede resultar confusa.
+  - La página de Amigos Solidarios es más simple y consigue transmitir el mensaje de una manera más afectiva.
 
 
+Las pruebas de usabilidad revelan que "Amigos Solidarios" ofrece una mejor experiencia de usuario en comparación con "Oasis". La simplicidad y la buena integración de funciones fueron destacadas positivamente en "Amigos Solidarios", mientras que "Oasis" necesita mejorar la consistencia y la integración de sus funciones.
 
->>> Valoración personal 
+#### Incidencias
 
+* No se presentaron incidencias mayores durante las pruebas. Todas las tareas fueron completadas exitosamente por los usuarios.
 
+#### Valoración 
+
+* **Puntos Positivos a destacar:**
+  - Oasis dispone de buenas funcionalidades.
+  - Buena gestión del perfil de usuario.
+  - Disponen de una buena home page que hace sencillo comprender el onjetivo de la página.
+
+#### Recomendaciones y propuesta de mejoras: 
+
+* **Puntos de mejora:**
+  - Mejorar la consistencia y la integración de funciones en el sitio "Oasis".
+  - Simplificar la navegación en ambos sitios para asegurar que sigue siendo intuitiva para todos los usuarios.
+
+#### Valoración de la prueba de usabilidad (self-assessment)
+
+Las técnicas de prueba de usabilidad utilizadas fueron efectivas para detectar errores y problemas de usabilidad ocultos. La utilización de cuestionarios SUS permitió obtener una evaluación cuantitativa clara de la experiencia del usuario, destacando áreas clave para la mejora continua. 
+
+### Valoración personal
+
+Como equipo creemos que la web de Oasis consigue transmitir el objetivo de esta de una manera bastante clara, además incluye buenas funcionalidades.
+Creemos que debe integrar las funcionalidades de una manera más efectiva y que debe mejorar la navegabilidad de la web.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
