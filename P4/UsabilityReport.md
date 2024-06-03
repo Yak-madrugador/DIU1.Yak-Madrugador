@@ -46,11 +46,6 @@ Se utilizó la escala de usabilidad del sistema (SUS) para cuantificar la experi
 - **Oasis (Test B):**
   - Usuario 3: 67.5
   - Usuario 4: 87.5
-
-- **Resultados A/B Testing**
-    - La página de Amigos Solidarios es más consistente y fácil de comprender.
-    - La navegabilidad de Oasis no es totalmente correcta y puede resultar confusa.
-    - La página de Amigos Solidarios es más simple y consigue transmitir el mensaje de una manera más afectiva.
   
 **Resultado de eyetracking:**
 
@@ -87,6 +82,13 @@ Se utilizó la escala de usabilidad del sistema (SUS) para cuantificar la experi
 Además, incluimos los vídeos en el siguiente [enlace](https://drive.google.com/drive/folders/1U4BWmyqUrBIbJwl570SO4GQdlt9CDpRz?usp=sharing).
 
 ## 4 CONCLUSIONES 
+
+#### Conclusiones A/B Testing
+
+  - La página de Amigos Solidarios es más consistente y fácil de comprender.
+  - La navegabilidad de Oasis no es totalmente correcta y puede resultar confusa.
+  - La página de Amigos Solidarios es más simple y consigue transmitir el mensaje de una manera más afectiva.
+
 
 Las pruebas de usabilidad revelan que "Amigos Solidarios" ofrece una mejor experiencia de usuario en comparación con "Oasis". La simplicidad y la buena integración de funciones fueron destacadas positivamente en "Amigos Solidarios", mientras que "Oasis" necesita mejorar la consistencia y la integración de sus funciones.
 
