@@ -2,9 +2,9 @@
 
 ### Amigos Solidarios y Oasis
 
-### 31/05/2024
+### 3/06/2024
 
-![img Proyecto]
+![]()
 
 [Enlace a GITHUB del proyecto]
 
@@ -30,10 +30,10 @@ Se utilizó la escala de usabilidad del sistema (SUS) para cuantificar la experi
 
 | Usuario | Sexo/Edad | Ocupación | Experiencia Internet | Plataforma | Perfil cubierto | Test | SUS Score |
 |---------|-----------|-----------|----------------------|------------|-----------------|------|-----------|
-| 1       | Hombre / 52 | Militar | Avanzado             | Phone      | Familia         | A    | 87.5      |
-| 2       | Mujer / 16  | Estudiante | Intermedio          | Phone      | Amigos          | A    | 92.5      |
-| 3       | Hombre / 25 | Profesor  | Intermedio          | Phone      | Familia         | B    | 67.5      |
-| 4       | Mujer / 20  | Estudiante | Bajo                | Phone      | Amigos          | B    | 87.5      |
+| 1       | Hombre / 52 | Militar | Avanzado             | Phone      | Padre de una familia que busca actividades para toda la familia         | A    | 87.5      |
+| 2       | Mujer / 16  | Estudiante | Intermedio          | Phone      | Estudiante busca informarse de todo lo ofertado por la web          | A    | 92.5      |
+| 3       | Hombre / 25 | Profesor  | Intermedio          | Phone      | Profesor recién salido del grado de educación infantil         | B    | 67.5      |
+| 4       | Mujer / 20  | Estudiante | Bajo                | Phone      | Estudiante del grado de comunicación audiovisual          | B    | 87.5      |
 
 #### Resultados obtenidos
 
@@ -47,24 +47,40 @@ Se utilizó la escala de usabilidad del sistema (SUS) para cuantificar la experi
   - Usuario 3: 67.5
   - Usuario 4: 87.5
 
+- **Resultados A/B Testing**
+    - La página de Amigos Solidarios es más consistente y fácil de comprender.
+    - La navegabilidad de Oasis no es totalmente correcta y puede resultar confusa.
+    - La página de Amigos Solidarios es más simple y consigue transmitir el mensaje de una manera más afectiva.
+  
 **Resultado de eyetracking:**
 
-Caso A:
+### Caso A:
 
 ![A1](img/AmigosSolidarios1.png)
+
 ![A2](img/AmigosSolidarios2.png)
+
 ![A3](img/AmigosSolidarios3.png)
+
 ![A4](img/AmigosSolidarios4.png)
+
 ![A5](img/AmigosSolidarios5.png)
 
-Caso B:
+----
+### Caso B:
 
 ![B1](img/Oasis1.PNG)
+
 ![B2](img/Oasis2.PNG)
+
 ![B3](img/Oasis3.PNG)
+
 ![B4](img/Oasis4.PNG)
+
 ![B5](img/Oasis5.PNG)
+
 ![B6](img/Oasis6.PNG)
+
 ![B7](img/Oasis7.PNG)
 
 
