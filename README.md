@@ -152,6 +152,61 @@ Miembros
 >>>
 >>> Consideramos este diseño como uno minimalista que se acostumbra poco a ver, por esa misma razón hemos querido llevar por este camino nuestra página, para que sea accesible a todo el mundo, de todas las edades y que no conlleve mucha perdida, ya que nuestra idea de proyecto se basa en poder llegar a la mayor cantidad de audiencia posible. Además hemos optado por la opción de invitar a que el usuario se inscriba en las actividades haciendo incapie en sobresaltar los botones de "Apúntate", y por su puesto, cada actividad tiene más información accesible para que aquellos a quien interese puedan acceder a ella sin problemas.
 
+
+## Paso 4. Evaluación 
+
+
+![Método UX](img/ABtesting.png) 4.a Caso asignado
+
+---- 
+>>>El caso asignado es la evaluación del proyecto "Oasis", que implica la creación de una página web para unas instalaciones deportivas, facilitando la reserva de sus instalaciones. Para llevarlo a cabo, se deberá desarrollar una interfaz de usuario intuitiva y fácil de usar, implementar un sistema de gestión de reservas eficiente y fiable, e integrar métodos de pago seguros y opciones de confirmación de reservas.
+
+[Enlace al GITHUB del proyecto](https://github.com/DIU1-PaloSeco/DIU?tab=readme-ov-file)
+
+
+
+![Método UX](img/usability-testing.png) 4.b User Testing
+----
+
+>>> Las personas elegidas se han generado mediante la tirada de dados propuestas, tras esto hemos buscado a gente conocida que se ajuste a las características de la tirada, los usuarios son: 
+ 
+
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| Juan Carlos   | H / 52   | Militar     | Avanzada    | Feliz        | Móvil      | A 
+| Alba          | M / 16   | Estudiante  | Intermedia  | Timido       | Móvil      | A 
+| Tomás         | H / 25   | Profesor    | Intermedia  | Enfadado     | Móvil      | B 
+| Marina        | M / 20   | Estudiante  | Baja        | Emocional    | Móvil      | B 
+
+### Situaciones conflictivas:
+
+- Juan Carlos: Busca manejarse de manera rápida y fácil por los menús y aplicaciones de la página, se frustra cuando la aplicación es lenta o no se puede acceder rápidamente a los apartados.
+- Alba: Busca una interfaz clara y entendible en la que pueda informarse de una manera clara.
+- Tomás: Busca una buena navegabilidad y que la página sea bastante intuitiva.
+- Marina: Busca desplazarse por la página e informarse de las reservas realizada.
+  
+![Método UX](img/Survey.png) 4.c Cuestionario SUS
+----
+
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
+Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+
+>>> Adjuntar captura de imagen con los resultados + Valoración personal 
+
+
+![Método UX](img/usability-report.png) 4.d Usability Report
+----
+
+>> Añadir report de usabilidad para práctica B (la de los compañeros)
+
+
+
+>>> Valoración personal 
+
+
+
+
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
 Exportación a HTML/Flutter
@@ -179,71 +234,16 @@ Resultados y valoración
 
 
 >> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
-
-## Paso 4. Evaluación 
-
-
-![Método UX](img/ABtesting.png) 4.a Caso asignado
-
----- 
->>>El caso asignado es la evaluación del proyecto "Oasis", que implica la creación de una página web para unas instalaciones deportivas, facilitando la reserva de sus instalaciones. Para llevarlo a cabo, se deberá desarrollar una interfaz de usuario intuitiva y fácil de usar, implementar un sistema de gestión de reservas eficiente y fiable, e integrar métodos de pago seguros y opciones de confirmación de reservas.
-
-[Enlace al GITHUB del proyecto](https://github.com/DIU1-PaloSeco/DIU?tab=readme-ov-file)
-
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Las personas elegidas se han generado mediante la tirada de dados propuestas, tras esto hemos buscado a gente conocida que se ajuste a las características de la tirada, los usuarios son: 
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Juan Carlos   | H / 52   | Militar     | Avanzada    | Introvertido | Web.       | A 
-| Alba          | M / 16   | Estudiante  | Intermedia  | Timido       | Web        | A 
-| Tomás         | M / 25   | Profesor    | Intermedia  | Emocional    | móvil      | B 
-| Marina        | M / 20   | Estudiante  | Baja        | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
-----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.d Usability Report
-----
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
-
-
-
-
+![Resultado](img/resultadoET.png)
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-----
 
+
+----
 
 >> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
 >> con los resultados del A/B testing, de eye tracking y del usability report:
 >>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
-
-
-
 
 ## Conclusión final / Valoración de las prácticas
 
